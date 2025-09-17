@@ -96,8 +96,6 @@
 
 <img width="330" height="87" alt="image" src="https://github.com/user-attachments/assets/e5d44520-ad12-4fce-ae9f-11923dd717ff" />
 
-![alt text](image-1.png)
-
 리텐션은 서비스가 속한 카테고리의 영향을 크게 받기 때문에 기준을 세우기 어려움
 
 2. 전환율- UI/UX의 영향을 많이 받음
@@ -123,7 +121,7 @@
 비추천 그룹 (0~6)
 -이탈 가능 높음
 
-![alt text](image-2.png)
+<img width="451" height="240" alt="image" src="https://github.com/user-attachments/assets/00c37012-2249-4658-8a9a-34c159f20ec3" />
 
 범위
 
@@ -139,7 +137,7 @@
 
 = 1:1 사용자 인터뷰 ,행동 관찰 > (포커스 그룹 인터뷰)
 
-![alt text](image-3.png)
+<img width="396" height="214" alt="image" src="https://github.com/user-attachments/assets/a43a35c7-30dd-40f3-b666-5430a1be2381" />
 
 이는 가설을 확인하는 과정이 아닌 사용자의 의견을 이해하는 과정임을 인지
 
