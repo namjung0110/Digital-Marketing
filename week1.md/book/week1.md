@@ -50,7 +50,7 @@
 
  고객 유치 활성화 리텐션 수익화 추천 다섯가지 범주에 따라 주요 지표 모니터링 및 관리
 
- ![alt text](image.png)
+<img width="576" height="426" alt="image" src="https://github.com/user-attachments/assets/2c3243ee-cad0-40ba-93d4-ecc075f24477" />
 
  2.1 뭐가 문제인지 모르는 게 문제
 
@@ -93,6 +93,8 @@
 사용자들이 특정 서비스에 얼마나 꾸준히 남아서 활동하는 지 보여주는 지표
 
 <시간과의 기울기가 얼마나 완만한지 안정화되는 지점이 어딘지 확인>
+
+<img width="330" height="87" alt="image" src="https://github.com/user-attachments/assets/e5d44520-ad12-4fce-ae9f-11923dd717ff" />
 
 ![alt text](image-1.png)
 
